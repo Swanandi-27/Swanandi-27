@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Swanandi 👋
 
-<!--
-**Swanandi-27/Swanandi-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science Student  
+💻 Learning Python, SQL, Power BI  
+📊 Interested in Data Analytics & Machine Learning  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Power BI
+- Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- Python Projects
+- Data Science Learning
+- GitHub Portfolio
+
+## Connect with me
+Welcome to my GitHub profile 🚀
