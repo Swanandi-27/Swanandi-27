@@ -1,6 +1,6 @@
 # Hi, I'm Swanandi 👋
 
-🎓 MSc Data Science Student  
+
 💻 Learning Python, SQL, Power BI  
 📊 Interested in Data Analytics & Machine Learning  
 
