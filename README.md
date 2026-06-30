@@ -18,6 +18,4 @@
 ## Connect with me
 Welcome to my GitHub profile 🚀
 
-## GitHub Stats 📊
 
-![](https://github-readme-stats.vercel.app/api?username=Swanandi-27&show_icons=true&theme=tokyonight)
